@@ -3,6 +3,7 @@
 
 /* -------------------------- Includes ------------------------- */
 #include "stm32f0xx_hal.h"
+#include "mems.h"
 
 /* ----------------------- Private defines --------------------- */
 #define NCS_MEMS_SPI_Pin GPIO_PIN_0
